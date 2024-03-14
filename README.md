@@ -18,9 +18,9 @@ Saya memiliki keahlian di bidang xxx
 Saya memiliki pengalaman kerja di bidang xxx
 ```
 
-Lalu tambahkan file tersebut ke dalam staging area dan commit dengan pesan "Menambahkan file Bio.md".
-
 Selanjutnya buat branch baru dengan nama `bio-{nama kamu}`. Lalu push branch tersebut ke repository.
+
+Lalu tambahkan file tersebut ke dalam staging area dan commit dengan pesan "Menambahkan file Bio.md".
 
 Jika kamu sudah selesai, silahkan buat pull request ke branch `main`.
 
