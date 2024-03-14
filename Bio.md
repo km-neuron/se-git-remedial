@@ -1,11 +1,11 @@
 # Biodataku
 
-Halo, nama saya adalah xxx
+Halo, nama saya adalah Imam
 
-Saya merupakan seorang xxx di xxx
+Saya merupakan seorang DevAdvoc di Ruangguru
 
-Saya memiliki hobi xxx
+Saya memiliki hobi ngoding
 
-Saya memiliki keahlian di bidang xxx
+Saya memiliki keahlian di bidang ngoding
 
-Saya memiliki pengalaman kerja di bidang xxx
+Saya memiliki pengalaman kerja di bidang ngoding
