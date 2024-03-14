@@ -1,11 +1,11 @@
 # Biodataku
 
-Halo, nama saya adalah Adit
+Halo, nama saya adalah Adhitama Wichaksono
 
-Saya merupakan seorang Petani di sawah
+Saya merupakan seorang mahasiswa di telkom univeristy
 
-Saya memiliki hobi berkebun
+Saya memiliki hobi menonton film
 
-Saya memiliki keahlian di bidang pertanian
+Saya memiliki keahlian di bidang IT backend dan cyber
 
-Saya memiliki pengalaman kerja di bidang pertanian
+Saya memiliki pengalaman kerja di dunia IT
