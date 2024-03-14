@@ -1,11 +1,11 @@
 # Biodataku
 
-Halo, nama saya adalah xxx
+Halo, nama saya adalah Adit
 
-Saya merupakan seorang xxx di xxx
+Saya merupakan seorang Petani di sawah
 
-Saya memiliki hobi xxx
+Saya memiliki hobi berkebun
 
-Saya memiliki keahlian di bidang xxx
+Saya memiliki keahlian di bidang pertanian
 
-Saya memiliki pengalaman kerja di bidang xxx
+Saya memiliki pengalaman kerja di bidang pertanian
